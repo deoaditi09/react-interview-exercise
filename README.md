@@ -1,3 +1,6 @@
+# Access Prototype Here
+https://deoaditi09.github.io/react-interview-exercise/
+
 # Hello Aspiring Applicant!
 
 This coding exercise is meant to allow you to demonstrate creative problem solving and modern web development understanding. Feel free to stretch the boundaries of the prompt to showcase your personal preferences and skills. 
